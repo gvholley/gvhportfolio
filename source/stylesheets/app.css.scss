@@ -9,3 +9,21 @@
 // Your CSS partials
 @import "components/index";
 @import "pages/index";
+
+.container {
+  margin-right: 36px;
+  margin-left: 36px;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+.about-me {
+  border-bottom: 2px solid gray;
+}
+
+.projects {
+  border-bottom: 2px solid gray;
+}
+
