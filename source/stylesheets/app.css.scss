@@ -17,13 +17,24 @@
 
 h1 {
   font-size: 36px;
+  color: #F5F2D0;
 }
 
 .about-me {
   border-bottom: 2px solid gray;
+  color: #F5F2D0;
 }
 
 .projects {
   border-bottom: 2px solid gray;
+  color: #F5F2D0;
 }
 
+body {
+  background-color: #030316;
+}
+
+.header-image {
+width: 100%;
+height: auto;
+}
