@@ -22,7 +22,7 @@ GEM
     execjs (2.6.0)
     fast_blank (1.0.0)
     fastimage (2.1.0)
-    ffi (1.9.18)
+    ffi (1.13.1)
     font-awesome-sass (5.13.0)
       sassc (>= 1.11)
     haml (5.0.3)
