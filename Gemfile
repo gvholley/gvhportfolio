@@ -18,3 +18,5 @@ gem "tzinfo-data", platforms: [:mswin, :mingw]
 
 ## Middleman sprockets
 gem 'middleman-sprockets'
+
+gem 'font-awesome-sass', '~> 5.13.0'
