@@ -53,3 +53,52 @@ height: auto;
   font-size: 20px;
   letter-spacing: 15px;
 }
+
+.carosel-item {
+display: block;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 100px;
+  width: 100px;
+  background-size: 100%, 100%;
+  background-image: none;
+}
+
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 32px;
+  color: #fc9c38;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 32px;
+  color: #fc9c38;
+}
+
+.btn-site {
+    border: solid 2px #fc9c38;
+    padding: 8px;
+    border-radius: 16px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #fc9c38;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.btn-site:hover {
+  border: solid 2px #4fe8fc;
+  padding: 8px;
+  border-radius: 16px;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: #4fe8fc;
+  text-decoration: none;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
